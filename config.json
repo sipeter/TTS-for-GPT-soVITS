@@ -3,7 +3,7 @@
   "tts_port": 5000,
   "half_precision": "auto",
   "device": "auto",
-  "is_share": "true",
+  "is_share": "false",
   "enable_auth": "false",
   "user":{
     "admin": "admin123"
